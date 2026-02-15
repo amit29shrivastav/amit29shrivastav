@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Amit 👋
 
-<!--
-**amit29shrivastav/amit29shrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Project Manager with 20+ years in IT services, delivery, and engineering-driven programs.
+Background in development, production support, and SME roles — now focused on strengthening hands-on technical depth through structured learning and practical projects.
 
-Here are some ideas to get you started:
+I use this space to document my learning journey, build prototypes, and explore architecture and automation ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Focus Areas
+
+* System Design & Architecture Thinking
+* Data Science Concepts
+* Cloud & Integration Patterns
+* Automation & Productivity Engineering
+
+---
+
+## 🧠 Currently Learning
+
+* Distributed system fundamentals
+* Cloud-native patterns
+* Machine Learning & AI Agents
+
+---
+
+## 🎯 Purpose of This GitHub
+
+This repository collection reflects:
+
+* Continuous technical growth
+* Curiosity-driven experimentation
+* Practical validation of concepts
+* Structured problem solving
+
+Rather than tutorial copies, projects emphasize understanding, documentation, and architectural reasoning.
+
+---
+
+## 🤝 Connect
+
+* LinkedIn: <add-link>
+* Email: <add-email>
+
+---
+
+⭐ Thanks for visiting!
