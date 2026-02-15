@@ -39,8 +39,8 @@ Rather than tutorial copies, projects emphasize understanding, documentation, an
 
 ## 🤝 Connect
 
-* LinkedIn: <add-link>
-* Email: <add-email>
+* LinkedIn: https://www.linkedin.com/in/amit-shrivastava-b7a827136/
+* Email: amit29shrivastav@gmail.com
 
 ---
 
